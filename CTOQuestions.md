@@ -1,13 +1,14 @@
 # CTO Interview Questions and Preparation Guide
 
-It is important that you do as much research about the company as you can before the interview. You need to show that you understand the company's technological requirements as they relate to business operations, financial requirements and possible future planning. You could even have some suggestions ready for the panel if a question comes up in the interview that warrants any. It all depends on how well the interview unfolds.
+OpenAI: Research about the company to show that you understand the company's technological requirements as they relate to business operations, financial requirements and possible future planning. 
+Have some suggestions ready for the panel if a question comes up in the interview that warrants any.
 
 ## 1. Tell us about our company. What do we do here?
 
 **Answer:** Oracle Cloud Infrastructure (OCI) is the industry's most comprehensive and secure cloud platform, providing enterprises with unmatched performance, security, and AI capabilities. We enable organizations to build, run, and scale applications globally while maintaining operational excellence and cost efficiency. OCI's unique value proposition lies in our AI-powered services, multi-cloud capabilities, and industry-leading security that allows businesses to innovate faster and scale mission-critical workloads with confidence.
 
 ## Notes
-This is quite curveball for a first question, but it does happen from time to time. If you have been considered for such a high-ranking position in the company, then you might have had some preliminary discussions with a company contact ahead of time, or with a recruiter if you have gone through an agency. Either way, they could help you with some key points that you should definitely have prepared for the interview.
+This is quite a curveball for a first question, but it does happen from time to time. If you have been considered for such a high-ranking position in the company, then you might have had some preliminary discussions with a company contact ahead of time, or with a recruiter if you have gone through an agency. Either way, they could help you with some key points that you should definitely have prepared for the interview.
 
 The interviewer generally wants to gauge how well you know the business, as it shows that you have taken a key interest in how the organization operates, and what they need in terms of technological oversight from you. You must always do your homework about the company before the interview, so definitely be prepared for this kind of question. In your answers you can suggest that a company such as theirs that works in such a sector can benefit from A, B and C suggestions. This shows that you not only understand the technology that is required for the company to succeed, but that you also understand the context in which the technology applies to them as well.
 
