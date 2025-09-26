@@ -1,0 +1,19 @@
+Hi,
+
+I would like to express my interest in the Senior Director role in the OCI Support AI Tooling team. The mission to transform Oracle’s support experience using scalable platforms, ML-driven tooling, and automation deeply resonates with my background and passion.
+
+Across my 15+ years leading high-impact engineering teams, I have led technical and product teams with a focus on innovation with an eye on exceptional customer experience and quality to consistently deliver scalable, AI-driven products that align with business growth.
+
+Currently, as VP Engineering at Augment Me, an AI-first startup recognized by Stanford StartX and TechCrunch Disrupt, I led the development of a neuro-symbolic agent powered by a custom LLM foundation model. I scaled the product from a research prototype to a production-ready solution now deployed in California schools and launched commercially on the App Store.
+
+Previously, as Executive Director at Visible Wireless, I drove the product and engineering teams with all-digital transformation strategy, launching industry-first innovations such as eSIM and AI-driven fraud detection, growing revenue from $13M to $64M. 
+At Amazon Alexa-AI as Sr. Manager, I led the team that pioneered Name-Free Interaction and Dynamic Skill Routing using Deep Neural Nets, directly enhancing NLU performance and customer engagement.
+
+I lead from the customer backward, translate ambiguity into action, and build high-trust, high-output teams. My leadership spans P&L ownership, platform modernization, and global delivery, all anchored in AI/ML and platform engineering.
+
+I would welcome the opportunity to bring my expertise to OCI and help shape the next generation of intelligent support systems.
+
+Thank you for your time and consideration.
+
+Best regards,
+Rahul
