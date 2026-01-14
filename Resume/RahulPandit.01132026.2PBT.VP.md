@@ -1,12 +1,10 @@
 # RAHUL PANDIT
-
-Seattle, WA
-VP / Executive Director of Engineering
-AI Platforms • Consumer Scale • ML Systems • P&L Ownership
+Seattle, WA | VP / Executive Director of Engineering
 
 ---
 
 ## Executive Summary
+AI Platforms • Consumer Scale • ML Systems • P&L Ownership
 
 Engineering leader with deep experience building and operating large-scale AI-driven consumer platforms. Proven ability to own strategy and execution across engineering, architecture, data, and operations in complex, matrixed environments. Strong record of aligning ML investments to growth, customer experience, and cost efficiency.
 
@@ -61,7 +59,7 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 * Expanded ownership across multiple device families and locales
 
 **Earlier Experience**
-Microsoft — Tech Lead Manager, Bing Mobile
+Microsoft - SQL Azure, Search
 
 ---
 
