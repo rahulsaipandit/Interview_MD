@@ -1,14 +1,14 @@
 # RAHUL PANDIT
-Seattle, WA | VP / Executive Director of Engineering
+Seattle, WA -  VP, Engineering -  rahul.pandit@live.com / https://www.linkedin.com/in/rahulapandit/
 
----
+***
 
 ## Executive Summary
 AI Platforms • Consumer Scale • ML Systems • P&L Ownership
 
 Engineering leader with deep experience building and operating large-scale AI-driven consumer platforms. Proven ability to own strategy and execution across engineering, architecture, data, and operations in complex, matrixed environments. Strong record of aligning ML investments to growth, customer experience, and cost efficiency.
 
----
+***
 
 ## Leadership Scope & Impact
 
@@ -17,18 +17,18 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 * Delivered zero-to-one businesses and large-scale platform rewrites
 * Partnered closely with CEOs, CTOs, Product, Finance, and Legal
 
----
+***
 
 ## Professional Experience
 
-**Vice President, Engineering — Augment Me** | 2023–Present
+**Vice President, Engineering — Augment Me** | Oct 2023–Present
 
 * Set technical and product direction for an AI-native productivity platform
 * Built internal engineering org and vendor partnerships to support rapid iteration
 * Delivered a proprietary Neuro AI agent built on a custom LLM foundation
 * Drove early adoption through pilots and strategic partnerships
 
-**Executive Director, Engineering — Visible Wireless (Verizon)** | 2020–2023
+**Executive Director, Engineering — Visible Wireless (Verizon)** | Nov 2020– July2023
 
 * Full P&L ownership across engineering, architecture, fraud, and operations
 * Tripled revenue within two years while reducing operating costs by 30%
@@ -37,7 +37,7 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 * Modernized legacy systems into a modular, cloud-native 5G platform
 * Built leadership bench and succession plans across a global org
 
-**Amazon — Senior Engineering Manager** | 2014–2020
+**Amazon — Senior Engineering Manager** | Feb 2014– Nov 2020
 
 **Alexa AI**
 
@@ -61,8 +61,9 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 **Earlier Experience**
 Microsoft - SQL Azure, Search
 
----
+***
 
 ## Education
 
 Bachelor of Engineering, Computer Technology
+***
