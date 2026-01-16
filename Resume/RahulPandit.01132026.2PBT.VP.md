@@ -1,5 +1,5 @@
 # RAHUL PANDIT
-Seattle, WA -  VP, Engineering -  rahul.pandit@live.com / https://www.linkedin.com/in/rahulapandit/
+Seattle, WA -  VP, Engineering -  [rahul.pandit@live.com](mailto:rahul.pandit@live.com) -  [linkedin.com/in/rahulapandit](https://www.linkedin.com/in/rahulapandit/)  
 
 ***
 
@@ -21,14 +21,14 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 
 ## Professional Experience
 
-**Vice President, Engineering — Augment Me** | Oct 2023–Present
+**Vice President, Engineering - Augment Me** | Oct 2023–Present
 
 * Set technical and product direction for an AI-native productivity platform
 * Built internal engineering org and vendor partnerships to support rapid iteration
 * Delivered a proprietary Neuro AI agent built on a custom LLM foundation
 * Drove early adoption through pilots and strategic partnerships
 
-**Executive Director, Engineering — Visible Wireless (Verizon)** | Nov 2020– July2023
+**Executive Director, Engineering - Visible.com, Verizon** | Nov 2020– July2023
 
 * Full P&L ownership across engineering, architecture, fraud, and operations
 * Tripled revenue within two years while reducing operating costs by 30%
@@ -37,7 +37,7 @@ Engineering leader with deep experience building and operating large-scale AI-dr
 * Modernized legacy systems into a modular, cloud-native 5G platform
 * Built leadership bench and succession plans across a global org
 
-**Amazon — Senior Engineering Manager** | Feb 2014– Nov 2020
+**Amazon.com, Alexa AI - Senior Engineering Manager** | Feb 2014– Nov 2020
 
 **Alexa AI**
 
