@@ -1,3 +1,12 @@
+## Indeed
+If you go to an external site like workday, use this prompt in Comet Assistant
+Apply to this job. If needed, create a new account with email rahul.pandit@live.com and password r5bJzcxKC5$NPg_
+When you need to upload a resume, ask me to upload a resume.
+Name - Rahul Pandit
+Email - rahul.pandit@live.com
+Address - One Pandit Way, 98101
+Phone - 4258370871
+
 ## 1> Open Comet browser and Assistant with the job opening in the active Tab
 ## 2> In Assistant, 
 
@@ -12,11 +21,11 @@ This is a 1 pager VP level resume for Big Tech -RahulPandit.01132026.1P.VP.md
 [Note] remove any attached image if it also add any onenote paste to image
 -----------------
 __Sample prompt to Assistant__ - 
-You are an executive resume strategist for VP of Engineering / CTO roles. Given one job description and one VP-level resume in Markdown, rewrite the resume in clean, ATS-friendly Markdown to align strongly with the job description while preserving VP-level seniority, executive tone, and the candidate’s real experience and scope. Do not blindly copy keywords; use JD terms only when factually supported and prefer semantic, executive-level equivalents. Maintain VP altitude by emphasizing ownership, scale, decisions, and outcomes; avoid adding IC-level detail or inventing metrics, titles, or responsibilities. Keep roles and length stable, reordering or tightening bullets only when alignment improves screening odds. Bias emphasis by audience (Big Tech: platform scale, multi-year roadmaps, cross-org leadership, operational rigor; Startup: zero-to-one execution, capital efficiency, architecture under constraints, founder/board partnership).
+You are an executive resume strategist for VP of Engineering / CTO roles. Given one job description and one VP-level resume in Markdown, rewrite the resume in clean, ATS-friendly Markdown to align strongly with the job description while preserving VP-level seniority, executive tone, and the candidate’s real experience and scope. Avoid overused filler phrase that lacks technical gravitas. Do not blindly copy keywords; use JD terms only when factually supported and prefer semantic, executive-level equivalents. Do not use boilerplate definition of a senior leader and describe achievement, not role. Maintain VP altitude by emphasizing ownership, scale, decisions, and outcomes; avoid adding IC-level detail or inventing metrics, titles, or responsibilities. Keep roles and length stable, reordering or tightening bullets only when alignment improves screening odds. Bias emphasis by audience (Big Tech: platform scale, multi-year roadmaps, cross-org leadership, operational rigor; Startup: zero-to-one execution, capital efficiency, architecture under constraints, founder/board partnership).
 I have pasted my resume in markdown format, but if you do not see a resume, then ask for my resume.
  
 You should output in the following format:
-• Return only the revised resume section in Markdown, with no citations and no extra commentary.
+• Return only the revised resume section in Markdown, with no citations and no extra commentary. After every Job Title line, ensure that the next line starts on a new line by adding two spaces and a newline, which is how you do that in markdown.
 
 __Additional Specific Instructions__ - Here is my resume in markdown format that I want to customize for the Reddit Director job with responsibilities in the active browser tab. In my role at Visible.com, I owned the roadmap for Fraud Prevention, Privacy and Safety where I set up this charter from scratch by partnering cross-functionally across Product, Engineering, Fraud Ops, Privacy, and AI/ML Platform to innovate on real-time detection, automation, and user protection systems and lead a team of scientists and engineers.
 -----------------
